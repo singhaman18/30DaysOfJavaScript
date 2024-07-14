@@ -1,14 +1,19 @@
 // Activity 1: Variable Declaration
+// Task 1
 var number = 10;
 console.log(number)
 
+// Task 2
 let string = "JavaScript";
 console.log(string)
 
 // Activity 2: Constant Declaration
+// Task 3
 const isStudent = true;
 console.log(isStudent)
 
+// Activity 3: Data Types
+// Task 4
 const a = 50;
 const b = "Aman singh";
 const c = false;
@@ -22,12 +27,14 @@ console.table(Array.isArray(d));       // To specifically checking if a variable
 console.table([typeof a, typeof b, typeof c, typeof d, typeof e])
 
 // Activity 4: Reassigning variables
+// Task 5
 let username = "Aman Singh";
 console.log(`This is the initial username: ${username}`);
 username = "Aman Kumar";
 console.log(`This is the reassigned username: ${username}`)
 
 // Activity 5: Reassigning constants
+// Task 6
 const temp = 32;
 temp = 35;
 console.log(temp);                  // TypeError: Assignment to constant variable.
