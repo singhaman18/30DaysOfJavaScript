@@ -8,4 +8,6 @@
 
 16-07-2024: Day 4 tasks completed.
 
-17-07-2024: day 5 tasks completed.
+17-07-2024: Day 5 tasks completed.
+
+18-07-2024: Day 6 tasks completed.
