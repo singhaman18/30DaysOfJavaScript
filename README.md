@@ -13,3 +13,5 @@
 18-07-2024: Day 6 tasks completed.(Arrays)
 
 19-07-2024: Day 7 tasks completed.(Objects)
+
+20-07-2024: Day 8 tasks completed.(ES6+ Features)
