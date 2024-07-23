@@ -15,3 +15,9 @@
 19-07-2024: Day 7 tasks completed.(Objects)
 
 20-07-2024: Day 8 tasks completed.(ES6+ Features)
+
+21-07-2024: Day 9 tasks completed.(DOM Manipulation)
+
+22-07-2024: Day 10 tasks completed.(Event Handling)
+
+23-07-2024: Day 11 tasks completed.(Promises and Async:Await)
