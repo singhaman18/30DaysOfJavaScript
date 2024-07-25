@@ -21,3 +21,7 @@
 22-07-2024: Day 10 tasks completed.(Event Handling)
 
 23-07-2024: Day 11 tasks completed.(Promises and Async:Await)
+
+24-07-2024: Day 12 tasks completed.(Error Handling)
+
+25-07-2024: day 13 tasks completed.(Modules)
